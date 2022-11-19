@@ -1,10 +1,6 @@
 # MakeUp - Ultra Fast
 High performance Minecraft shader (Java).
 
-## Version: 8.6g (Optifine): Darkness
-
-### This branch (main/develop) only works in Optifine. For the version compatible with Iris, see the legacy branch
-
 ## Main features
 * Optional shadows
 * Optional volumetric clouds
@@ -19,11 +15,6 @@ High performance Minecraft shader (Java).
 * Shader for all native dimensions
 * And more...
 * FAST!
-
-## Tested on:
-* Minecraft 1.12.+ - 1.18.x
-* Nvidia and Intel
-* Windows and Linux
 
 ## You can:
 * You can use the shader without restrictions.
