@@ -20,11 +20,6 @@ High performance Minecraft shader (Java).
 * And more...
 * FAST!
 
-## Tested on:
-* Minecraft 1.12.+ - 1.19.x
-* Nvidia and Intel
-* Windows and Linux
-
 ## You can:
 * You can use the shader without restrictions.
 * You can fork the shader from: [https://github.com/javiergcim/MakeUpUltraFast](https://github.com/javiergcim/MakeUpUltraFast)
