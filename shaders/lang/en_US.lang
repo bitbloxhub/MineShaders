@@ -4,20 +4,21 @@ profile.no_effects=No effects
 profile.shadowless_low=Shadowless Low
 profile.shadowless_medium=Shadowless Medium
 profile.shadowless_high=Shadowless High
-profile.low=Low
+profile.lowes=Lowes
 profile.medium=Medium
 profile.high=High
 profile.extreme=Extreme
 profile.extremeplus=Extreme+
+profile.stupidtrashisbroken=stupid trash is broken
 profile.mineshaders=MineShaders
 
-profile.comment=use MineShaders
+profile.comment=click once to apply my defaults
 
 #About
 #############################
-option.ACERCADE=MakeUp
+option.ACERCADE=MineShaders
 option.ACERCADE.comment=Thanks for using this shader! :). Set Optifine native quality controls on normal or default values for better quality.
-value.ACERCADE.0=v.8.6g Iris
+value.ACERCADE.0=v.8.7 Iris
 
 #Options
 #############################
